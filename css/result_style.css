@@ -1,21 +1,25 @@
+@import url (https://www.google.com/fonts#UsePlace:use/Collection:Pacifico|Dancing+Script|Lobster+Two);
 h1 {
-  color: black;
-  text-align: center;
-}
-h2 {
-  width: 200px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0; 
-  background-color: white;
-}
-h3 {
-  width: 200px;
-    padding: 10px;
-    border: 5px solid gray;
-    margin: 0; 
-  background-color: white;
+  color: saddlebrown;
+  text-align: center
+  font-family:'Lobster Two', cursive;
 }
 body{
   background-image: url(http://p1.pichost.me/i/56/1795887.jpg)
+}
+h2{
+  width: 300px;
+  padding: 10px;
+  border: 5px black;
+  margin: 0;
+  background-color: white;
+  text-align: center;
+}
+h3{
+  width: 300px;
+  padding: 10px;
+  border: 5px black;
+  margin: 0;
+  background-color: white;
+  text-align: center;
 }
