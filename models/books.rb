@@ -8,7 +8,12 @@ b_n_books={"Great Gatsby" => 9.14, "Pride and Prejudice" => 6.25, "Macbeth" => 5
     get_price(amazon_price,b_n_price)
     @ap = amazon_price
     @bp = b_n_price
-    end
+    
+else 
+  @ap = "N/A"
+  @bp = "N/A"
+  @winner = "N/A"
+  end
 end
   
   def get_price(amazon_price, b_n_price) 
@@ -18,3 +23,4 @@ end
       @winner = "Barnes and Noble"
     end
   end
+    
