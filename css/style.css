@@ -1,8 +1,9 @@
-h1 {
-    text-align: center;
-  color: black; 
+@import url (https://www.google.com/fonts#UsePlace:use/Collection:Pacifico|Dancing+Script|Lobster+Two);
+h1 {  
+  text-align: center;
+  color: saddlebrown; 
   font-size: 80px;
-  font-family: times_new_roman,cursive;
+  font-family:'Lobster Two', cursive;
 }
 body{
   background-image: url(http://p1.pichost.me/i/56/1795887.jpg)
