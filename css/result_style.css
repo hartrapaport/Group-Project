@@ -1,23 +1,21 @@
 h1 {
   color: black;
-  text-align: center
+  text-align: center;
+}
+h2 {
+  width: 200px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
+  background-color: white;
+}
+h3 {
+  width: 200px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
+  background-color: white;
 }
 body{
-  background-image: url(http://nhtheatreawards.org/Data/Sites/1/aaImages/graphics/Sky%20and%20Clouds/beautiful_sky-dsc01468-dws.jpg)
-}
-h2{
-  width: 300px;
-  padding: 10px;
-  border: 5px black;
-  margin: 0;
-  background-color: white;
-  text-align: center;
-}
-h3{
-  width: 300px;
-  padding: 10px;
-  border: 5px black;
-  margin: 0;
-  background-color: white;
-  text-align: center;
+  background-image: url(http://p1.pichost.me/i/56/1795887.jpg)
 }
